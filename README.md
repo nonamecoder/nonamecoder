@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💻 Computer Engineering major with a Concentration in Cybersecurity @ UMassD '23
 - 🔭 I’m currently working on the CyberForce Competition 2021 and HackTheBox CTF's!
-- 🌱 I’m currently learning System hardening, Digital Forensics and Penetration testing
+- 🌱 I’m currently learning System hardening, Digital Forensics, Penetration testing and Blockchains
 - 👯 I’m looking to collaborate on CTF's and cybersecurity projects
 - 💬 Ask me about Cybersecurity, Linux hardening, Bash scripting, Java, Python, C, C++ and Objective-C!
 - 📫 How to reach me: [E-mail](mailto:ayyappan.rajesh16@gmail.com?subject=[GitHub]%20Source%20Readme) |  [LinkedIn](https://www.linkedin.com/in/ayyappan-rajesh/)
