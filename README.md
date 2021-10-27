@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 <a <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
 <a href="https://metasploit.com/" target="_blank"> <img src="https://metasploit.com/includes/images/favicon.ico" alt="Metasploit" width="40" height="40"/> </a> 
 <a href="https://app.hackthebox.eu/profile/103570" target="_blank"> <img src="https://www.hackthebox.eu/images/landingv3/favicon.png" alt="HackTheBox" width="40" height="40"/> </a> 
+<a href="https://tryhackme.com/p/ayyappanr" target="_blank"> <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe" width="40" height="40"/> </a> 
+
 
 
