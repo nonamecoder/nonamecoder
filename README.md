@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=nonamecoder)
 <h3 align="left">Github Stats </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamecoder&show_icons=true&locale=en" alt="Ayyappan Rajesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamecoder&show_icons=true&locale=en" alt="Ayyappan" /></p>
