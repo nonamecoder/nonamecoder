@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <a href="https://metasploit.com/" target="_blank"> <img src="https://metasploit.com/includes/images/favicon.ico" alt="Metasploit" width="40" height="40"/> </a> 
 <a href="shodan.io" target="_blank"> <img src="https://www.shodan.io/static/img/favicon.png" alt="Shodan.io" width="40" height="40"/> </a> 
 <a href="https://maltego.com" target="_blank"> <img src="https://www.maltego.com/favicon.ico" alt="Maltego" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://st-ar.cdn.postman.com/images/favicon-1-32.png" alt="Postman" width="40" height="40"/> </a> 
+<a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.wireshark.org/assets/images/favicon.ico" alt="Wireshark" width="40" height="40"/> </a> 
 <a href="https://app.hackthebox.eu/profile/103570" target="_blank"> <img src="https://www.hackthebox.eu/images/landingv3/favicon.png" alt="HackTheBox" width="40" height="40"/> </a> 
 <a href="https://tryhackme.com/p/ayyappanr" target="_blank"> <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe" width="40" height="40"/> </a> 
 
