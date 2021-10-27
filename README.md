@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning System hardening, Digital Forensics and Penetration testing
 - 👯 I’m looking to collaborate on CTF's and cybersecurity projects
 - 💬 Ask me about Cybersecurity, Linux hardening, Bash scripting, Java, Python, C, C++ and Objective-C!
-- 📫 How to reach me: [E-mail](mailto:ayyappan.rajesh16@gmail.com?subject=[GitHub]%20Source%20Readme)  [LinkedIn](https://www.linkedin.com/in/ayyappan-rajesh/)
+- 📫 How to reach me: [E-mail](mailto:ayyappan.rajesh16@gmail.com?subject=[GitHub]%20Source%20Readme) |  [LinkedIn](https://www.linkedin.com/in/ayyappan-rajesh/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/> </a> 
 <a <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
 <a href="https://metasploit.com/" target="_blank"> <img src="https://metasploit.com/includes/images/favicon.ico" alt="Metasploit" width="40" height="40"/> </a> 
- <a href="shodan.io" target="_blank"> <img src="https://www.shodan.io/static/img/favicon.png" alt="Shodan.io" width="40" height="40"/> </a> 
+<a href="shodan.io" target="_blank"> <img src="https://www.shodan.io/static/img/favicon.png" alt="Shodan.io" width="40" height="40"/> </a> 
+<a href="https://maltego.com" target="_blank"> <img src="https://maltego.com/favico.ico" alt="TryHackMe" width="40" height="40"/> </a> 
 <a href="https://app.hackthebox.eu/profile/103570" target="_blank"> <img src="https://www.hackthebox.eu/images/landingv3/favicon.png" alt="HackTheBox" width="40" height="40"/> </a> 
 <a href="https://tryhackme.com/p/ayyappanr" target="_blank"> <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe" width="40" height="40"/> </a> 
 
