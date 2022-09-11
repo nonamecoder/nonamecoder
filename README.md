@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👨‍💻 Computer Engineering major with a minor in Cybersecurity @ UMassD '24
+- 👨‍💻 Computer Engineering major with a concentration in Cybersecurity @ UMassD '24
 - 🔭 I’m recently gave a talk at DEFCON 30's Car Hacking Village and am researching on automotive and wireless cybersecurity
 - 🌱 I’m currently learning about the CAN bus, System hardening, Digital Forensics and Penetration testing
 - 👯 I’m looking to collaborate on CTF's and cybersecurity projects
