@@ -44,10 +44,3 @@ Here are some ideas to get you started:
  <h3 align="left">HackTheBox </h3>
 <img src="http://www.hackthebox.eu/badge/image/103570" alt="Hack The Box">
 
-
-
-## SSH Public Key
-
-```ssh
-AAAAB3NzaC1yc2EAAAADAQABAAABgQCn++2UhupZksIPI1Uh9reNB0z1llJFU1g1GeuKLP5DQnNDrq9YyAzCCo6PzQroj2kNwi8w0aLMD8+wNev7PbIHH5N0ZlTdx0Ayn8+Zdy6YT8NBLUeTq/lLHoZPulZGH9dT7YKQf+Wi+mSbQUQDQANB1KsGNF9S5Ppza+fWvLjvJj8fl9z1Y4O0n+1025TxJ1Owfkq/iQBs+aIEqGZ8GqLsDK6TXi8dERLoYljnu6f6xRqRD0KtaQEpkUW9S5PFnzwNeqmft617cC356FlIC6f/ZcupldEuN1rYKrj6bj89O/PSXiAtZPeltQmIP7yiUU24LOia7vcH0qQrtNIGuAxriAA6IY2VMqFMb1agXn5R0vAULpdQGIw6J8i7/zzkp81QAPJX3Z5vPknznbL4mNXSrPBhMqarle7nDQ9+RnjQtGwIhjO3O9sViMBc5DJpRtXIQvlpvj6r5D1lxaO6d/d2zudoSwaSoOFDAuSwSNi9YtO0PRau74EoPq+SkgMn/Ls= 
-
